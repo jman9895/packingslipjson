@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "banner": {
+    "text": "Thank you for your order! For install videos, please visit www.nicholsmachineworks.com"
+  },
+  "items": {
+    "WDP-SB": {
+      "pickNote": "2 Piece mount, Screw Bag 4",
+      "binLocation": "",
+      "warning": ""
+    }
+  }
+}
