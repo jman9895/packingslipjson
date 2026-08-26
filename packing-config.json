@@ -1,26 +1,26 @@
 {
-  "version": 2,
+  "version": 2.1,
   "banner": {
     "text": "Thank you for your order! For install videos, please visit www.nicholsmachineworks.com"
   },
   "items": {
     "BD-ND-5-BLK": {
-      "note": "3 #6 Screws",
+      "note": "3x #6 Screws",
       "warning": "",
       "bin": ""
     },
     "BD-ND-5-WHT": {
-      "note": "3 #6 Screws",
+      "note": "3x #6 Screws",
       "warning": "",
       "bin": ""
     },
     "BD-SB-5-B": {
-      "note": "2 #8 3 #6 Screws",
+      "note": "2x #8 3x #6 Screws",
       "warning": "",
       "bin": ""
     },
     "BD-SB-5-W": {
-      "note": "2 #8 3 #6 Screws",
+      "note": "2x #8 3x #6 Screws",
       "warning": "",
       "bin": ""
     },
@@ -35,157 +35,157 @@
       "bin": ""
     },
     "BV4-UE-BK": {
-      "note": "3 #8 Screws",
+      "note": "3x #8 Screws",
       "warning": "",
       "bin": ""
     },
     "BV4-UE-WT": {
-      "note": "3 #8 Screws",
+      "note": "3x #8 Screws",
       "warning": "",
       "bin": ""
     },
     "BV4-VFM": {
-      "note": "2 #6 Screws",
+      "note": "2x #6 Screws",
       "warning": "",
       "bin": ""
     },
     "EXP-7": {
-      "note": "2 #8 Screws",
+      "note": "2x #8 Screws",
       "warning": "",
       "bin": ""
     },
     "EXP-LITE": {
-      "note": "2 #8 Screws",
+      "note": "2x #8 Screws",
       "warning": "",
       "bin": ""
     },
     "PV3-UEVE-2SCR": {
-      "note": "2 #8 Screws",
+      "note": "2x #8 Screws",
       "warning": "",
       "bin": ""
     },
     "RD2-ND": {
-      "note": "4 M3 Screws",
+      "note": "4x M3 Screws",
       "warning": "",
       "bin": ""
     },
     "RD2-SB": {
-      "note": "2 #8 2 M3 Screws",
+      "note": "2x #8 2x M3 Screws",
       "warning": "",
       "bin": ""
     },
     "RDL-ND5": {
-      "note": "2 M3 Screws",
+      "note": "2x M3 Screws",
       "warning": "",
       "bin": ""
     },
     "RDL-SB5": {
-      "note": "2 #8 2 M3 Screws",
+      "note": "2x #8 2x M3 Screws",
       "warning": "",
       "bin": ""
     },
     "RDND1": {
-      "note": "Screw Bag 3     4 M3 Screws",
+      "note": "Screw Bag 3     4x M3 Screws",
       "warning": "",
       "bin": ""
     },
     "RDP-ND": {
-      "note": "2 M3 Screws",
+      "note": "2x M3 Screws",
       "warning": "",
       "bin": ""
     },
     "RDP-SB": {
-      "note": "2 #8 2 M3 Screws",
+      "note": "2x #8 2x M3 Screws",
       "warning": "",
       "bin": ""
     },
     "RDSB1": {
-      "note": "2 #8 4 M3 Screws",
+      "note": "2x #8 4x M3 Screws",
       "warning": "",
       "bin": ""
     },
     "RPRO-ND-BLK": {
-      "note": "4 M3 Screws",
+      "note": "4x M3 Screws",
       "warning": "",
       "bin": ""
     },
     "RPRO-ND-WHT": {
-      "note": "4 M3 Screws",
+      "note": "4x M3 Screws",
       "warning": "",
       "bin": ""
     },
     "RPRO-UE-BLK": {
-      "note": "Screw Bag 2    3 #8 4 M3",
+      "note": "Screw Bag 2    3x #8 4x M3",
       "warning": "",
       "bin": ""
     },
     "RPRO-UE-WHT": {
-      "note": "3 #8 4 M3 Screws",
+      "note": "3x #8 4x M3 Screws",
       "warning": "",
       "bin": ""
     },
     "RPRO-VFM": {
-      "note": "4 M3 Screws",
+      "note": "4x M3 Screws",
       "warning": "",
       "bin": ""
     },
     "RPRO-VFS-CEN": {
-      "note": "4 M3 Screws",
+      "note": "4x M3 Screws",
       "warning": "CENTER MOUNT",
       "bin": ""
     },
     "RPRO-VFS-CORN": {
-      "note": "4 M3 Screws",
+      "note": "4x M3 Screws",
       "warning": "",
       "bin": ""
     },
     "RSL-ND-BLK": {
-      "note": "3 #6 Screws",
+      "note": "3x #6 Screws",
       "warning": "",
       "bin": ""
     },
     "RSU-ND-BLK": {
-      "note": "Screws in Bag 2 #4",
+      "note": "Screws in Bag 2x #4",
       "warning": "",
       "bin": ""
     },
     "RSU-ND-WHT": {
-      "note": "Screws in Bag 2 #4",
+      "note": "Screws in Bag 2x #4",
       "warning": "",
       "bin": ""
     },
     "RSU-UE-BLK": {
-      "note": "Screw Bag 1     3 #8 2 #4",
+      "note": "Screw Bag 1     3x #8 2x #4",
       "warning": "",
       "bin": ""
     },
     "RSU-UE-WHT": {
-      "note": "Screw Bag 1     3 #8 2 #4",
+      "note": "Screw Bag 1     3x #8 2x #4",
       "warning": "",
       "bin": ""
     },
     "RSU-VFM": {
-      "note": "2 M3 Screws",
+      "note": "2x M3 Screws",
       "warning": "",
       "bin": ""
     },
     "U-FS25": {
-      "note": "2 #8 Screws",
+      "note": "2x #8 Screws",
       "warning": "",
       "bin": ""
     },
     "UFS-MINI": {
-      "note": "2 M3 Screws",
+      "note": "2x #8 Screws",
       "warning": "",
       "bin": ""
     },
     "UG-ULTRA": {
-      "note": "2 #8 Screws",
+      "note": "2x #8 Screws",
       "warning": "",
       "bin": ""
     },
     "UG3-ND": {
-      "note": "2 #4 Screws",
+      "note": "2x #4 Screws",
       "warning": "",
       "bin": ""
     },
@@ -200,27 +200,27 @@
       "bin": ""
     },
     "WBP-ND": {
-      "note": "3 M3 Screws",
+      "note": "3x M3 Screws",
       "warning": "",
       "bin": ""
     },
     "WBP-UE": {
-      "note": "3 #8 3 M3 Screws",
+      "note": "3x #8 3x M3 Screws",
       "warning": "",
       "bin": ""
     },
     "WD2-SB": {
-      "note": "2 #8 2 #4 Screws",
+      "note": "2x #8 2x #4 Screws",
       "warning": "2 Piece Mount!",
       "bin": ""
     },
     "WDD-ND": {
-      "note": "4 M3 Screws",
+      "note": "4x M3 Screws",
       "warning": "",
       "bin": ""
     },
     "WDD-SB": {
-      "note": "2 #8 2 M3 Screws",
+      "note": "2x #8 2x M3 Screws",
       "warning": "",
       "bin": ""
     },
