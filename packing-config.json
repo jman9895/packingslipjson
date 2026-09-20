@@ -189,9 +189,14 @@
       "warning": "",
       "bin": ""
     },
-    "WBP-ND": {
+    "WBP-ND-BLK": {
       "note": "3x M3 Screws",
-      "warning": "",
+      "warning": "BLACK",
+      "bin": ""
+    },
+    "WBP-ND-WT": {
+      "note": "3x M3 Screws",
+      "warning": "WHITE",
       "bin": ""
     },
     "WBP-UE": {
