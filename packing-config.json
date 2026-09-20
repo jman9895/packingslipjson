@@ -189,16 +189,6 @@
       "warning": "",
       "bin": ""
     },
-    "W-V4-NDX1": {
-      "note": "No Screws",
-      "warning": "",
-      "bin": ""
-    },
-    "W-V4-NDX2": {
-      "note": "BUNDLE 2 PACK!!",
-      "warning": "INCLUDE QUANTITY 2",
-      "bin": ""
-    },
     "WBP-ND": {
       "note": "3x M3 Screws",
       "warning": "",
@@ -237,6 +227,26 @@
     "WV3-SCREEN": {
       "note": "No Screws",
       "warning": "",
+      "bin": ""
+    },
+    "W-V4-ND-BLKx2": {
+      "note": "BLACK BUNDLE 2 PACK!!",
+      "warning": "INCLUDE QUANTITY 2",
+      "bin": ""
+    },
+    "W-V4-ND-BLK": {
+      "note": "BLACK",
+      "warning": "INCLUDE QUANTITY 2",
+      "bin": ""
+    },
+    "W-V4-ND-WT": {
+      "note": "WHITE",
+      "warning": "INCLUDE QUANTITY 2",
+      "bin": ""
+    },
+    "W-V4-ND-WTx2": {
+      "note": "WHITE BUNDLE 2 PACK!!",
+      "warning": "INCLUDE QUANTITY 2",
       "bin": ""
     }
   }
